@@ -1,0 +1,18 @@
+Parameter,Value
+Hot Fluid,Engine Oil
+Cold Fluid,Water
+Heat Duty (kW),168.0
+Cooling Fluid Flow (kg/s),1.34
+LMTD (°C),61.66
+Reynolds Number,268.05
+Prandtl Number,3620.69
+Nusselt Number,27.04
+Tube-side h (W/m².K),206.38
+Shell-side h (W/m².K),2500
+Overall U (W/m².K),186.2
+Heat Transfer Area (m²),14.63
+Number of Tubes,41
+NTU,1.297
+Effectiveness,0.667
+Pressure Drop (Pa),25.97
+Estimated Cost (USD),17559.67
